@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={xo294})](https://solved.ac/{xo294})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xo294)](https://solved.ac/xo294)
 <!--
 **pyapyapya/pyapyapya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
