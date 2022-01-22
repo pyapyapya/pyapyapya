@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hi! I'm TaeHyeon Jeon! <b>I want to deal with all the data in the world</b>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xo294)](https://solved.ac/xo294)<br>
 ![pyapyapya's github stats](https://github-readme-stats.vercel.app/api?username=pyapyapya&show_icons=true)
 <!--
