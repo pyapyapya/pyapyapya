@@ -4,7 +4,7 @@ Hi! I'm TaeHyeon Jeon, I want to deal with all the data in the world<br>
 Here's My [[Blog]](https://sable-climb-26e.notion.site/Study-9088822835ba44009bd694b7f9d2acda) & [[Portfolio]](https://github.com/pyapyapya/Portfolio) <br>
 
 ### Intersted In
-- Connect data and discover meaningful data
+- Connect Data and Discover Meaningful Data
 - Culture Data(Music, Webtoon, Game, SNS)
 - Search and Recommend Technology<br><br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xo294)](https://solved.ac/xo294)<br>
