@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Hi! I'm TaeHyeon Jeon <br>
-<b>I want to deal with all the data in the world</b><br>
+Hi! I'm TaeHyeon Jeon, I want to deal with all the data in the world<br>
+Here's My [[Blog]](https://sable-climb-26e.notion.site/Study-9088822835ba44009bd694b7f9d2acda) & [[Portfolio]](https://github.com/pyapyapya/Portfolio) <br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xo294)](https://solved.ac/xo294)<br>
 ![pyapyapya's github stats](https://github-readme-stats.vercel.app/api?username=pyapyapya&show_icons=true)
 <!--
