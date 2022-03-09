@@ -6,7 +6,7 @@ Here's My [[Blog]](https://sable-climb-26e.notion.site/Study-9088822835ba44009bd
 ### Intersted In
 - :mag: Connect Data and Discover Meaningful Data
 - :musical_keyboard: Culture Data(Music, Webtoon, Game, SNS)
-- :bookmark_tabs: Search and Recommend Technology<br><br>
+- :bookmark_tabs: Search and Recommend System<br><br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xo294)](https://solved.ac/xo294)<br>
 ![pyapyapya's github stats](https://github-readme-stats.vercel.app/api?username=pyapyapya&show_icons=true)
 
